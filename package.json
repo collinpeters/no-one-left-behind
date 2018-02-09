@@ -1,0 +1,14 @@
+
+{
+    "name": "no-one-left-behind",
+    "version": "0000.00.00",
+    "description": "Every package is invited",
+    "repository": "Zalastax/no-one-left-behind",
+    "scripts": {
+        "update-packages": "node update-package.js",
+        "deploy": "node deploy.js"
+    },
+    "license": "MIT",
+    "dependencies": {
+    }
+}
