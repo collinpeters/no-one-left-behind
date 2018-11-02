@@ -2,7 +2,7 @@
 {
     "name": "no-one-left-behind",
     "version": "2018.02.10",
-    "description": "Every package is invited",
+    "description": "Every package is INVITED",
     "repository": "Zalastax/no-one-left-behind",
     "scripts": {
         "update-packages": "node update-package.js",
